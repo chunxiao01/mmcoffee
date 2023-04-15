@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkmmcoffee"]=self["webpackChunkmmcoffee"]||[]).push([[325],{7866:function(e,n,t){var u;t.r(n),t.d(n,{default:function(){return o}});var f,r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("v-uni-view")},c=[],a={data:function(){return{}},methods:{}},l=a,s=t(69453),i=(0,s.Z)(l,r,c,!1,null,"5383fa56",null,!1,u,f),o=i.exports}}]);
